@@ -1,0 +1,190 @@
+element.style {
+}
+.MW5IWV .Kv1aVt {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.MW5IWV .Kv1aVt {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.LWbAav {
+    background-color: var(--bg-overlay-color);
+    background-image: var(--bg-gradient);
+    transition: var(--inherit-transition);
+}
+.LWbAav {
+    background-color: var(--bg-overlay-color);
+    background-image: var(--bg-gradient);
+    transition: var(--inherit-transition);
+}
+a, abbr, acronym, address, applet, b, big, blockquote, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.MW5IWV {
+    height: 100%;
+    left: 0;
+    -webkit-mask-image: var(--mask-image,none);
+    mask-image: var(--mask-image,none);
+    -webkit-mask-position: var(--mask-position,0);
+    mask-position: var(--mask-position,0);
+    -webkit-mask-repeat: var(--mask-repeat,no-repeat);
+    mask-repeat: var(--mask-repeat,no-repeat);
+    -webkit-mask-size: var(--mask-size,100%);
+    mask-size: var(--mask-size,100%);
+    overflow: hidden;
+    pointer-events: var(--fill-layer-background-media-pointer-events);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.MW5IWV {
+    height: 100%;
+    left: 0;
+    -webkit-mask-image: var(--mask-image,none);
+    mask-image: var(--mask-image,none);
+    -webkit-mask-position: var(--mask-position,0);
+    mask-position: var(--mask-position,0);
+    -webkit-mask-repeat: var(--mask-repeat,no-repeat);
+    mask-repeat: var(--mask-repeat,no-repeat);
+    -webkit-mask-size: var(--mask-size,100%);
+    mask-size: var(--mask-size,100%);
+    overflow: hidden;
+    pointer-events: var(--fill-layer-background-media-pointer-events);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#comp-lrhscyjy {
+    --bg-overlay-color: transparent;
+    --bg-gradient: none;
+    width: 100%;
+    --column-width: 873px;
+    --column-flex: 873;
+}
+#comp-lrhscyjw {
+    --bg-overlay-color: transparent;
+    --bg-gradient: none;
+    --padding: 0px;
+    --margin: 0px;
+    min-width: 980px;
+    --firstChildMarginTop: -1px;
+    --lastChildMarginBottom: -1px;
+    --items-direction: row;
+}
+[data-mesh-id$=-gridContainer]>*, [data-mesh-id$=-rotated-wrapper]>*, [data-mesh-id$=inlineContent]>:not([data-mesh-id$=-gridContainer]) {
+    pointer-events: auto;
+}
+[data-mesh-id$=centeredContent], [data-mesh-id$=form], [data-mesh-id$=inlineContent] {
+    pointer-events: none;
+    position: relative;
+}
+#SITE_HEADER {
+    --shc-mutated-brightness: 128,128,128;
+    position: fixed !important;
+    margin-top: var(--wix-ads-height);
+    top: 0;
+}
+#SITE_HEADER {
+    --bg: 255,255,255;
+    --shd: none;
+    --brwt: 0px;
+    --brd: 47,46,46;
+    --brwb: 0px;
+    --bgctr: 255,255,255;
+    --rd: 0px;
+    --alpha-bg: 0.6;
+    --alpha-bgctr: 0;
+    --alpha-brd: 1;
+    --boxShadowToggleOn-shd: none;
+}
+#SITE_HEADER {
+    z-index: calc(var(--pinned-layers-in-page, 0) + 51);
+    --above-all-in-container: 10000;
+}
+#masterPage:not(.landingPage) {
+    --top-offset: var(--header-height);
+    --header-height: 149px;
+}
+#masterPage {
+    --pinned-layers-in-page: 0;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 0,0,0;
+    --color_2: 184,92,35;
+    --color_3: 25,25,25;
+    --color_4: 247,247,247;
+    --color_5: 206,235,76;
+    --color_6: 255,255,255;
+    --color_7: 191,191,191;
+    --color_8: 128,128,128;
+    --color_9: 64,64,64;
+    --color_10: 0,0,0;
+    --color_11: 246,246,246;
+    --color_12: 189,233,251;
+    --color_13: 143,136,152;
+    --color_14: 40,26,57;
+    --color_15: 40,26,57;
+    --color_16: 69,78,25;
+    --color_17: 137,157,51;
+    --color_18: 40,26,57;
+    --color_19: 227,242,160;
+    --color_20: 238,248,192;
+    --color_21: 195,191,199;
+    --color_22: 71,71,71;
+    --color_23: 117,117,117;
+    --color_24: 163,163,163;
+    --color_25: 209,209,209;
+    --color_26: 62,62,62;
+    --color_27: 124,124,124;
+    --color_28: 185,185,185;
+    --color_29: 92,81,104;
+    --color_30: 251,251,251;
+    --color_31: 61,31,12;
+    --color_32: 123,61,23;
+    --color_33: 184,92,35;
+    --color_34: 224,142,92;
+    --color_35: 239,199,174;
+    --color_36: 246,246,246;
+    --color_37: 40,26,57;
+    --color_38: 195,191,199;
+    --color_39: 143,136,152;
+    --color_40: 92,81,104;
+    --color_41: 32,97,183;
+    --color_42: 189,233,251;
+    --color_43: 234,224,218;
+    --color_44: 208,224,205;
+    --color_45: 40,26,57;
+    --color_46: 40,26,57;
+    --color_47: 40,26,57;
+    --color_48: 40,26,57;
+    --color_49: 40,26,57;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+
+:root {
+    --one-unit: 1vw;
+}
